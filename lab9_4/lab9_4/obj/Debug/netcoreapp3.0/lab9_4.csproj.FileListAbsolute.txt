@@ -1,4 +1,3 @@
-C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.csprojAssemblyReference.cache
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.AssemblyInfoInputs.cache
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.AssemblyInfo.cs
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\bin\Debug\netcoreapp3.0\lab9_4.exe
@@ -9,3 +8,5 @@ C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\bin\Deb
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\bin\Debug\netcoreapp3.0\lab9_4.pdb
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.dll
 C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.pdb
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab9_4\lab9_4\obj\Debug\netcoreapp3.0\lab9_4.genruntimeconfig.cache
