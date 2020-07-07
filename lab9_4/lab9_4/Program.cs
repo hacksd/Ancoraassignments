@@ -64,7 +64,6 @@ namespace lab9_4
 
         }
     }
-
     class FileWriter
     {
         private const string myhtmlpath = "C:\\weblogs\\lab994.html";
