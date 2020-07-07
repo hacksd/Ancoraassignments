@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACT-Student\\source\\repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj": {}
+    "C:\\Users\\ACT-Student\\Source\\Repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACT-Student\\source\\repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj": {
+    "C:\\Users\\ACT-Student\\Source\\Repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACT-Student\\source\\repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj",
+        "projectUniqueName": "C:\\Users\\ACT-Student\\Source\\Repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj",
         "projectName": "lab9_4",
-        "projectPath": "C:\\Users\\ACT-Student\\source\\repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj",
+        "projectPath": "C:\\Users\\ACT-Student\\Source\\Repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\lab9_4.csproj",
         "packagesPath": "C:\\Users\\ACT-Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACT-Student\\source\\repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\obj\\",
+        "outputPath": "C:\\Users\\ACT-Student\\Source\\Repos\\hacksd\\Ancoraassignments\\lab9_4\\lab9_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACT-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
