@@ -70,7 +70,7 @@ namespace lab9_4
         private const string myhtmlpath = "C:\\weblogs\\lab994.html";
         public void CreateHtml(StringBuilder htmldata)
         {
-            File.AppendAllText (myhtmlpath, htmldata.ToString());
+            File.WriteAllText (myhtmlpath, htmldata.ToString());
         }
     }
     
