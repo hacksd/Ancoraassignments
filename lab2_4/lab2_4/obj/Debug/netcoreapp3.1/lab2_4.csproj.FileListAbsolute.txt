@@ -11,3 +11,16 @@ C:\Users\hacks\source\repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\net
 C:\Users\hacks\source\repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.dll
 C:\Users\hacks\source\repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.pdb
 C:\Users\hacks\source\repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.genruntimeconfig.cache
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.exe
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.deps.json
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.runtimeconfig.json
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.runtimeconfig.dev.json
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.dll
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\bin\Debug\netcoreapp3.1\lab2_4.pdb
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.AssemblyInfo.cs
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.dll
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.pdb
+C:\Users\ACT-Student\Source\Repos\hacksd\Ancoraassignments\lab2_4\lab2_4\obj\Debug\netcoreapp3.1\lab2_4.genruntimeconfig.cache
