@@ -2,4 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/LAB7
+
+/lab4_6/.vs/lab4_6/DesignTimeBuild
