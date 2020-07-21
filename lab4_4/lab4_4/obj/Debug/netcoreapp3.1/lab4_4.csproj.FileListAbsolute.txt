@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.exe
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.deps.json
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.runtimeconfig.json
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.runtimeconfig.dev.json
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.dll
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\bin\Debug\netcoreapp3.1\lab4_4.pdb
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.AssemblyInfo.cs
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.dll
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.pdb
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.genruntimeconfig.cache
+C:\Users\ACT-Student\source\repos\hacksd\Ancoraassignments\lab4_4\lab4_4\obj\Debug\netcoreapp3.1\lab4_4.csprojAssemblyReference.cache
